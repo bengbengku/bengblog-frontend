@@ -1,0 +1,17 @@
+.reset_header_container {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  top: 0;
+  height: 56px;
+  z-index: 99;
+  padding: 10px;
+  width: 100%;
+}
+
+.reset_header_logo {
+  display: flex;
+  align-items: center;
+  margin-left: 5%;
+  flex: 1;
+}
